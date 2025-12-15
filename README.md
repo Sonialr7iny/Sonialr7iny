@@ -85,4 +85,4 @@ I document my progress through small repos, notes, and experiments.
 
 ---
 
-Thanks for visiting — feel free to explore my repos or reach out anytime.
+Thanks for visiting feel free to explore my repos or reach out anytime.
